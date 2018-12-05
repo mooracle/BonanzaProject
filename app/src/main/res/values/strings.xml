@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bonanza Project</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="password">password</string>
+    <string name="encryption">Encryption</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="backup">Backup</string>
+    <string name="your_choice">Your choice:</string>
+    <string name="apply">Apply</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="please_enter_your_username">Please enter your username</string>
+    <string name="enter_your_age">Enter your age</string>
+    <string name="enter_your_location">Enter Your Location</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="button_submit">Submit</string>
+    <string name="welcome_new_user">Welcome New User</string>
+    <string name="key_user">user</string>
+</resources>
